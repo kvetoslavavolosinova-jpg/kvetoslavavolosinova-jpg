@@ -1,6 +1,6 @@
 # Kvetoslava Volosinova
 
-### Supply Chain | Supplier Operations | Compliance & ESG | Data Analytics
+### Supplier Operations & Performance | Procurement | Supply Chain Analytics
 
 Supply Chain and Supplier Operations professional with experience in the automotive industry, combining operational expertise with data analytics.
 
@@ -17,25 +17,28 @@ I use **SQL, Power BI, Python and Excel** to transform operational data into sup
 ## Core Expertise
 
 ### Supply Chain & Supplier Operations
-- Supplier onboarding and coordination
-- Supplier compliance
-- ESG / Sustainability Rating (S-Rating)
-- Supplier master data
-- Procurement and order processes
-- On-Time Delivery (OTD)
-- Supplier performance and risk
-- Automotive quality operations
+Supplier onboarding and B2B coordination
+Supplier compliance and documentation
+ESG / Sustainability Rating (S-Rating)
+DUNS supplier verification
+Supplier master data and validation
+Procurement operations and order processes
+On-Time Delivery (OTD)
+Supplier performance and risk
+Automotive quality operations
 
-### Data & Analytics
-- SQL
-- Power BI
-- Python
-- Pandas
-- Matplotlib
-- Excel
-- Data cleaning and validation
-- KPI analysis
-- Business reporting
+### Data & Analytics & Systems
+SQL
+Power BI
+Python
+Pandas
+Matplotlib
+Excel
+SAP S/4HANA – Sourcing & Procurement
+Salesforce CRM
+Data cleaning and validation
+KPI analysis
+Business reporting
 
 ---
 
@@ -135,6 +138,6 @@ The SQL learning is integrated with my main supply-chain analytics portfolio pro
 
 I am particularly interested in roles where operational and supply-chain knowledge can be combined with analytics, including:
 
-**Supply Chain Analytics • Supplier Operations • Supplier Performance • Procurement Operations • Supplier Compliance • Business Operations • Reporting & BI**
+**Supplier Operations • Supplier Performance • Procurement Operations • Supplier Compliance & Risk • Supply Chain / Procurement Analytics • Reporting & BI**
 
 My goal is to use data not only to describe what happened, but to identify operational risks, measure performance and support better business decisions.
